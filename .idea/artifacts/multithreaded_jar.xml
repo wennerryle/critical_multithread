@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="multithreaded:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/multithreaded_jar</output-path>
+    <root id="archive" name="multithreaded.jar">
+      <element id="module-output" name="multithreaded" />
+    </root>
+  </artifact>
+</component>
